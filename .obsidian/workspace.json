@@ -11,14 +11,17 @@
             "id": "8a3405c243de6356",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Study/ОПД.md",
-                "mode": "source",
-                "source": false
+                "file": "Study/Глобальное дерево.canvas",
+                "viewState": {
+                  "x": -210,
+                  "y": 740,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ОПД"
+              "icon": "lucide-layout-dashboard",
+              "title": "Глобальное дерево"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/ОПД.md",
+                "file": "Study/Глобальное дерево.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ОПД"
+              "title": "Backlinks for Глобальное дерево"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/ОПД.md",
+                "file": "Study/Глобальное дерево.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ОПД"
+              "title": "Outgoing links from Глобальное дерево"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/ОПД.md",
+                "file": "Study/Глобальное дерево.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ОПД"
+              "title": "Outline of Глобальное дерево"
             }
           }
         ]
@@ -172,9 +175,10 @@
   },
   "active": "8a3405c243de6356",
   "lastOpenFiles": [
+    "Study/ОПД.md",
+    "Study/Глобальное дерево.canvas",
     "Study/Матанализ.md",
     "Study/Англ.md",
-    "Study/ОПД.md",
     "Welcome.md",
     "Study"
   ]
